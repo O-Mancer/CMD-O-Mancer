@@ -15,8 +15,8 @@ If you skipped one round and find that the program is displaying the wrong round
 1. Install requirements.txt
 ``pip install -r requirements.txt``
 2. Edit CMD-O-Mancer.py with your settings and info.
-3. Run CMD-O-Mancer.py
-``py ./CMD-O-Mancer.py``
+3. Run CMD_o_Mancer_v1.0.py
+``py ./CMD_o_Mancer_v1.0.py``
 
 ## NOTES
 All coding and work on this project was done by me, yosharu.
